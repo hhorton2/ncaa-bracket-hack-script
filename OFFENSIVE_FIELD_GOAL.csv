@@ -1,0 +1,353 @@
+Rank,Team,GM,W-L,FGM,FGA,FG%
+1,UCLA (Pac-12),31,28-3,1061,2017,52.6
+2,Gonzaga (West Coast),33,32-1,1002,1935,51.8
+3,Creighton (Big East),31,23-8,976,1906,51.2
+4,Utah (Pac-12),30,20-10,880,1742,50.5
+5,FGCU (ASUN),33,26-7,978,1949,50.2
+6,Vermont (America East),33,28-5,900,1800,50
+7,Fort Wayne (Summit League),31,19-12,998,2008,49.7
+8,St. Mary's (CA) (West Coast),32,28-4,842,1698,49.6
+9,Villanova (Big East),31,28-3,832,1678,49.6
+10,Virginia Tech (Atlantic Coast),31,22-9,844,1712,49.3
+11,ETSU (Southern),34,27-7,935,1904,49.1
+12,William & Mary (Colonial),31,17-14,887,1808,49.1
+13,Marquette (Big East),30,19-11,870,1775,49
+14,Kansas (Big 12),31,28-3,921,1887,48.8
+15,Middle Tenn. (Conference USA),31,27-4,871,1789,48.7
+16,Weber St. (Big Sky),29,17-12,777,1599,48.6
+17,Loyola Chicago (Missouri Valley),32,18-14,852,1755,48.5
+18,Florida St. (Atlantic Coast),31,24-7,927,1910,48.5
+19,Portland St. (Big Sky),30,15-15,931,1921,48.5
+20,Oregon (Pac-12),31,27-4,875,1807,48.4
+21,North Dakota (Big Sky),28,19-9,806,1670,48.3
+22,UNCW (Colonial),34,29-5,1046,2170,48.2
+23,Denver (Summit League),30,16-14,811,1684,48.2
+24,Toledo (Mid-American),32,17-15,891,1852,48.1
+25,Bucknell (Patriot),34,26-8,915,1902,48.1
+26,Purdue (Big Ten),31,25-6,866,1803,48
+27,Indiana (Big Ten),31,17-14,879,1832,48
+28,Michigan (Big Ten),31,20-11,809,1687,48
+29,Lehigh (Patriot),32,20-12,857,1788,47.9
+30,Gardner-Webb (Big South),33,19-14,913,1905,47.9
+31,Butler (Big East),30,23-7,810,1691,47.9
+32,Kentucky (Southeastern),31,26-5,953,1992,47.8
+33,Eastern Wash. (Big Sky),31,21-10,859,1800,47.7
+34,Furman (Southern),32,21-11,842,1771,47.5
+35,Lipscomb (ASUN),33,20-13,939,1978,47.5
+36,UNC Asheville (Big South),32,23-9,878,1850,47.5
+37,Duke (Atlantic Coast),32,24-8,886,1870,47.4
+38,Georgia St. (Sun Belt),30,19-11,813,1717,47.4
+39,Belmont (OVC),28,22-6,750,1584,47.3
+40,Wichita St. (Missouri Valley),34,30-4,949,2006,47.3
+41,Wake Forest (Atlantic Coast),32,19-13,898,1902,47.2
+42,Dayton (Atlantic 10),30,24-6,776,1644,47.2
+43,North Carolina (Atlantic Coast),32,26-6,995,2108,47.2
+44,Baylor (Big 12),31,25-6,813,1723,47.2
+45,Michigan St. (Big Ten),31,18-13,803,1702,47.2
+46,New Orleans (Southland),29,18-11,752,1594,47.2
+47,A&M-Corpus Chris (Southland),29,19-10,785,1664,47.2
+48,Akron (Mid-American),31,24-7,825,1752,47.1
+49,Louisiana (Sun Belt),32,21-11,921,1959,47
+50,SMU (AAC),31,27-4,815,1735,47
+51,Yale (Ivy League),27,17-10,721,1535,47
+52,Albany (NY) (America East),33,21-12,865,1842,47
+53,Texas Tech (Big 12),32,18-14,835,1779,46.9
+54,Arizona (Pac-12),31,27-4,804,1713,46.9
+55,Austin Peay (OVC),30,11-19,806,1718,46.9
+56,Louisiana Tech (Conference USA),31,22-9,859,1831,46.9
+57,UTEP (Conference USA),30,14-16,764,1630,46.9
+58,UT Martin (OVC),33,21-12,918,1961,46.8
+59,Richmond (Atlantic 10),30,19-11,799,1707,46.8
+60,UMBC (America East),30,18-12,852,1821,46.8
+61,North Carolina St. (Atlantic Coast),32,15-17,888,1898,46.8
+62,Wofford (Southern),33,16-17,900,1926,46.7
+62,Jacksonville (ASUN),32,17-15,850,1819,46.7
+64,Oklahoma St. (Big 12),31,20-11,892,1909,46.7
+65,New Mexico St. (Western Athletic),30,25-5,822,1760,46.7
+66,Virginia (Atlantic Coast),31,22-9,775,1660,46.7
+67,Samford (Southern),34,19-15,906,1941,46.7
+68,Chattanooga (Southern),31,19-12,801,1718,46.6
+69,UAB (Conference USA),32,17-15,813,1744,46.6
+70,VCU (Atlantic 10),31,24-7,836,1795,46.6
+71,Ball St. (Mid-American),31,20-11,854,1834,46.6
+72,Arkansas (Southeastern),31,23-8,865,1861,46.5
+73,TCU (Big 12),32,18-14,858,1846,46.5
+74,Rice (Conference USA),32,22-10,866,1865,46.4
+75,Saint Francis (PA) (Northeast),32,16-16,880,1897,46.4
+76,UT Arlington (Sun Belt),31,24-7,854,1842,46.4
+77,UNCG (Southern),34,25-9,914,1972,46.3
+78,Ohio St. (Big Ten),32,17-15,827,1786,46.3
+79,West Virginia (Big 12),31,24-7,918,1983,46.3
+80,Texas A&M (Southeastern),30,16-14,787,1703,46.2
+81,Lamar University (Southland),32,19-13,869,1882,46.2
+82,Kennesaw St. (ASUN),32,14-18,892,1932,46.2
+83,Iowa St. (Big 12),30,20-10,878,1902,46.2
+84,New Mexico (Mountain West),30,17-13,756,1639,46.1
+85,CSUN (Big West),29,11-18,779,1689,46.1
+86,Notre Dame (Atlantic Coast),31,23-8,858,1861,46.1
+87,Arkansas St. (Sun Belt),32,20-12,826,1792,46.1
+88,Georgetown (Big East),32,14-18,808,1753,46.1
+89,Sacramento St. (Big Sky),30,13-17,785,1704,46.1
+90,Morehead St. (OVC),30,14-16,878,1906,46.1
+91,Washington St. (Pac-12),31,13-18,801,1739,46.1
+92,USC Upstate (ASUN),32,17-15,914,1985,46
+93,Cincinnati (AAC),31,27-4,849,1847,46
+94,N.C. Central (Mid-Eastern),31,23-8,836,1819,46
+95,Utah St. (Mountain West),29,13-16,735,1600,45.9
+96,Northern Ky. (Horizon),34,24-10,902,1964,45.9
+97,South Dakota St. (Summit League),34,18-16,863,1880,45.9
+98,Kansas St. (Big 12),31,19-12,776,1692,45.9
+99,Fresno St. (Mountain West),30,19-11,783,1708,45.8
+100,Troy (Sun Belt),33,19-14,885,1933,45.8
+101,North Dakota St. (Summit League),30,19-11,775,1693,45.8
+102,Jacksonville St. (OVC),34,20-14,834,1823,45.7
+103,Houston Baptist (Southland),29,17-12,821,1795,45.7
+104,North Florida (ASUN),34,15-19,926,2026,45.7
+105,Winthrop (Big South),32,26-6,866,1895,45.7
+106,Southern California (Pac-12),31,23-8,848,1856,45.7
+107,Marshall (Conference USA),32,18-14,939,2056,45.7
+108,BYU (West Coast),33,22-11,909,1991,45.7
+109,Syracuse (Atlantic Coast),32,18-14,836,1832,45.6
+110,Miami (FL) (Atlantic Coast),31,21-10,773,1695,45.6
+111,Northeastern (Colonial),31,15-16,767,1682,45.6
+112,La Salle (Atlantic 10),29,15-14,734,1612,45.5
+113,Iona (Metro Atlantic),34,22-12,951,2091,45.5
+114,Oakland (Horizon),32,24-8,880,1935,45.5
+115,Louisville (Atlantic Coast),31,24-7,864,1901,45.4
+116,George Mason (Atlantic 10),31,19-12,814,1791,45.4
+117,Canisius (Metro Atlantic),33,18-15,910,2003,45.4
+118,Princeton (Ivy League),27,21-6,701,1543,45.4
+119,Ohio (Mid-American),29,19-10,782,1722,45.4
+120,FIU (Conference USA),31,7-24,805,1773,45.4
+121,Evansville (Missouri Valley),33,16-17,800,1762,45.4
+122,Omaha (Summit League),32,18-14,895,1972,45.4
+123,Buffalo (Mid-American),31,17-14,859,1894,45.4
+124,Campbell (Big South),34,17-17,824,1817,45.3
+125,Florida (Southeastern),31,24-7,829,1829,45.3
+126,Xavier (Big East),32,20-12,829,1830,45.3
+127,San Francisco (West Coast),32,20-12,840,1855,45.3
+128,Western Mich. (Mid-American),31,16-15,839,1853,45.3
+129,Cornell (Ivy League),29,8-21,746,1648,45.3
+130,Wisconsin (Big Ten),31,23-8,815,1802,45.2
+131,Boise St. (Mountain West),29,19-10,739,1634,45.2
+132,Siena (Metro Atlantic),34,17-17,899,1989,45.2
+133,Harvard (Ivy League),27,18-9,672,1487,45.2
+134,Seton Hall (Big East),30,20-10,797,1764,45.2
+135,Clemson (Atlantic Coast),32,17-15,845,1872,45.1
+136,IUPUI (Summit League),32,14-18,883,1957,45.1
+137,Eastern Mich. (Mid-American),32,16-16,897,1989,45.1
+138,LSU (Southeastern),31,10-21,853,1893,45.1
+139,Maryland (Big Ten),31,24-7,781,1735,45
+140,Southeastern La. (Southland),32,16-16,796,1770,45
+141,Southeast Mo. St. (OVC),33,15-18,852,1896,44.9
+142,Wright St. (Horizon),32,20-12,817,1819,44.9
+143,American (Patriot),30,8-22,692,1542,44.9
+144,Montana (Big Sky),31,16-15,817,1821,44.9
+145,Rhode Island (Atlantic 10),30,21-9,782,1743,44.9
+146,Illinois (Big Ten),31,18-13,803,1790,44.9
+147,Boston College (Atlantic Coast),32,9-23,843,1880,44.8
+148,Nevada (Mountain West),31,25-6,828,1847,44.8
+149,CSU Bakersfield (Western Athletic),29,21-8,754,1682,44.8
+150,Iowa (Big Ten),31,18-13,866,1932,44.8
+151,Texas St. (Sun Belt),30,18-12,736,1642,44.8
+152,Colorado (Pac-12),32,19-13,834,1861,44.8
+153,Providence (Big East),31,20-11,759,1694,44.8
+154,SFA (Southland),30,17-13,719,1605,44.8
+155,Houston (AAC),30,21-9,797,1780,44.8
+156,Towson (Colonial),33,20-13,850,1900,44.7
+157,Cal St. Fullerton (Big West),29,16-13,741,1659,44.7
+158,Memphis (AAC),31,19-12,833,1866,44.6
+159,Valparaiso (Horizon),32,24-8,827,1854,44.6
+160,Mississippi St. (Southeastern),31,16-15,796,1785,44.6
+161,Rider (Metro Atlantic),33,18-15,907,2034,44.6
+162,Pepperdine (West Coast),31,9-22,807,1810,44.6
+163,Washington (Pac-12),30,9-21,846,1898,44.6
+164,UC Irvine (Big West),32,19-13,816,1831,44.6
+165,UMKC (Western Athletic),31,16-15,817,1834,44.5
+166,St. Bonaventure (Atlantic 10),30,19-11,780,1752,44.5
+167,Ga. Southern (Sun Belt),31,18-13,798,1793,44.5
+168,Oral Roberts (Summit League),30,8-22,810,1820,44.5
+169,Elon (Colonial),32,18-14,850,1911,44.5
+170,Penn (Ivy League),27,13-14,684,1538,44.5
+171,Longwood (Big South),30,6-24,738,1660,44.5
+172,Detroit Mercy (Horizon),31,8-23,830,1867,44.5
+173,South Dakota (Summit League),33,22-11,882,1985,44.4
+174,James Madison (Colonial),33,10-23,770,1733,44.4
+175,Loyola Marymount (West Coast),30,15-15,779,1755,44.4
+176,UC Davis (Big West),31,19-12,767,1728,44.4
+177,Utah Valley (Western Athletic),29,14-15,762,1717,44.4
+178,San Jose St. (Mountain West),29,14-15,754,1699,44.4
+179,Charlotte (Conference USA),30,13-17,800,1803,44.4
+180,Mt. St. Mary's (Northeast),34,19-15,831,1873,44.4
+181,Mercer (Southern),32,15-17,787,1774,44.4
+182,Georgia (Southeastern),31,18-13,770,1736,44.4
+183,Hofstra (Colonial),32,15-17,846,1908,44.3
+184,Little Rock (Sun Belt),32,15-17,775,1749,44.3
+185,Boston U. (Patriot),32,18-14,817,1844,44.3
+186,Tennessee St. (OVC),30,17-13,744,1680,44.3
+187,Missouri St. (Missouri Valley),33,17-16,838,1893,44.3
+188,Brown (Ivy League),30,13-17,735,1661,44.3
+189,Ill.-Chicago (Horizon),33,15-18,859,1942,44.2
+190,Northwestern St. (Southland),29,13-16,751,1698,44.2
+191,Green Bay (Horizon),31,18-13,883,1997,44.2
+192,Sacred Heart (Northeast),32,13-19,832,1882,44.2
+193,Pittsburgh (Atlantic Coast),33,16-17,807,1826,44.2
+194,Long Beach St. (Big West),32,14-18,848,1920,44.2
+195,Stetson (ASUN),32,11-21,886,2007,44.1
+196,Texas (Big 12),32,11-21,790,1790,44.1
+197,Army West Point (Patriot),32,13-19,842,1908,44.1
+198,Fairfield (Metro Atlantic),30,16-14,789,1788,44.1
+199,Charleston So. (Big South),31,12-19,824,1868,44.1
+200,Milwaukee (Horizon),35,11-24,860,1950,44.1
+201,Sam Houston St. (Southland),32,20-12,852,1933,44.1
+202,Murray St. (OVC),33,16-17,899,2040,44.1
+203,Stanford (Pac-12),31,14-17,772,1753,44
+204,Fairleigh Dickinson (Northeast),30,11-19,754,1713,44
+205,Colgate (Patriot),32,10-22,745,1693,44
+206,Western Ky. (Conference USA),32,15-17,777,1766,44
+207,Youngstown St. (Horizon),34,13-21,981,2230,44
+208,Northern Colo. (Big Sky),29,11-18,732,1665,44
+209,Southern U. (Southwestern),32,15-17,802,1829,43.8
+210,New Hampshire (America East),32,20-12,783,1787,43.8
+211,Illinois St. (Missouri Valley),33,27-6,811,1851,43.8
+212,Northern Ill. (Mid-American),32,15-17,828,1891,43.8
+213,Monmouth (Metro Atlantic),33,27-6,899,2054,43.8
+214,Massachusetts (Atlantic 10),32,15-17,824,1883,43.8
+215,Arizona St. (Pac-12),32,15-17,869,1986,43.8
+216,Bryant (Northeast),32,12-20,839,1918,43.7
+217,Auburn (Southeastern),32,18-14,861,1969,43.7
+218,Central Ark. (Southland),32,8-24,836,1912,43.7
+219,Binghamton (America East),32,12-20,768,1757,43.7
+220,Air Force (Mountain West),32,12-20,797,1824,43.7
+221,Vanderbilt (Southeastern),31,17-14,730,1671,43.7
+222,Columbia (Ivy League),27,11-16,700,1604,43.6
+223,Santa Clara (West Coast),33,17-16,778,1784,43.6
+224,Georgia Tech (Atlantic Coast),32,17-15,784,1799,43.6
+225,Grambling (Southwestern),32,16-16,821,1884,43.6
+226,Davidson (Atlantic 10),29,15-14,743,1706,43.6
+227,Montana St. (Big Sky),32,16-16,857,1968,43.5
+228,Western Ill. (Summit League),28,8-20,711,1633,43.5
+229,Drexel (Colonial),32,9-23,865,1987,43.5
+230,LIU Brooklyn (Northeast),32,20-12,803,1846,43.5
+231,Saint Peter's (Metro Atlantic),32,19-13,738,1698,43.5
+232,Seattle U (Western Athletic),29,13-16,691,1590,43.5
+233,Idaho St. (Big Sky),31,5-26,742,1708,43.4
+234,Minnesota (Big Ten),31,23-8,811,1868,43.4
+235,Miami (OH) (Mid-American),32,11-21,787,1815,43.4
+236,Southern Ill. (Missouri Valley),33,17-16,808,1866,43.3
+237,UCF (AAC),30,20-10,687,1587,43.3
+238,Liberty (Big South),32,19-13,708,1636,43.3
+239,High Point (Big South),31,15-16,732,1692,43.3
+240,Idaho (Big Sky),29,17-12,714,1651,43.2
+241,Texas Southern (Southwestern),32,21-11,805,1862,43.2
+242,Col. of Charleston (Colonial),34,25-9,776,1796,43.2
+243,Dartmouth (Ivy League),27,7-20,631,1461,43.2
+244,St. John's (NY) (Big East),32,14-18,839,1943,43.2
+245,Alcorn (Southwestern),30,17-13,753,1747,43.1
+246,Northwestern (Big Ten),31,21-10,786,1824,43.1
+247,South Carolina St. (Mid-Eastern),31,11-20,796,1850,43
+248,Lafayette (Patriot),30,9-21,712,1655,43
+249,DePaul (Big East),32,9-23,775,1804,43
+250,UConn (AAC),30,14-16,710,1655,42.9
+251,Marist (Metro Atlantic),32,8-24,749,1747,42.9
+252,Prairie View (Southwestern),33,13-20,788,1839,42.8
+253,Eastern Ky. (OVC),31,12-19,750,1752,42.8
+254,Duquesne (Atlantic 10),32,10-22,785,1835,42.8
+255,Kent St. (Mid-American),32,19-13,887,2074,42.8
+256,Wagner (Northeast),30,16-14,727,1700,42.8
+257,Oregon St. (Pac-12),32,5-27,721,1686,42.8
+258,Norfolk St. (Mid-Eastern),31,16-15,762,1782,42.8
+259,UMES (Mid-Eastern),32,13-19,811,1897,42.8
+260,Holy Cross (Patriot),32,15-17,663,1551,42.7
+261,La.-Monroe (Sun Belt),32,9-23,793,1857,42.7
+262,Nicholls St. (Southland),31,14-17,771,1806,42.7
+263,Wyoming (Mountain West),32,18-14,817,1914,42.7
+264,UTRGV (Western Athletic),31,10-21,846,1983,42.7
+265,South Ala. (Sun Belt),32,14-18,793,1859,42.7
+266,South Fla. (AAC),29,7-22,692,1625,42.6
+267,Coastal Caro. (Sun Belt),32,16-16,835,1961,42.6
+268,Bowling Green (Mid-American),32,13-19,832,1957,42.5
+269,Colorado St. (Mountain West),31,21-10,752,1769,42.5
+270,Tennessee (Southeastern),31,16-15,784,1845,42.5
+271,Hawaii (Big West),29,14-15,675,1590,42.5
+272,California (Pac-12),31,20-11,743,1751,42.4
+273,N.C. A&T (Mid-Eastern),32,3-29,729,1719,42.4
+274,Central Mich. (Mid-American),32,16-16,912,2153,42.4
+275,Temple (AAC),31,16-15,782,1847,42.3
+276,Bradley (Missouri Valley),33,13-20,731,1727,42.3
+277,NJIT (ASUN),31,11-20,786,1857,42.3
+278,North Texas (Conference USA),30,8-22,740,1749,42.3
+279,Florida A&M (Mid-Eastern),30,7-23,762,1801,42.3
+280,Portland (West Coast),33,11-22,758,1793,42.3
+281,Oklahoma (Big 12),31,11-20,788,1864,42.3
+282,Navy (Patriot),32,16-16,735,1740,42.2
+283,Quinnipiac (Metro Atlantic),31,10-21,848,2008,42.2
+284,Loyola Maryland (Patriot),31,15-16,703,1667,42.2
+285,Central Conn. St. (Northeast),29,6-23,675,1602,42.1
+286,McNeese (Southland),29,7-22,715,1697,42.1
+287,Mississippi Val. (Southwestern),32,7-25,818,1942,42.1
+288,Tennessee Tech (OVC),32,12-20,786,1867,42.1
+289,Ole Miss (Southeastern),31,19-12,775,1841,42.1
+289,Delaware (Colonial),33,13-20,775,1841,42.1
+291,Alabama (Southeastern),30,17-13,709,1686,42.1
+292,Appalachian St. (Sun Belt),30,9-21,749,1783,42
+293,Tulsa (AAC),30,14-16,662,1576,42
+294,George Washington (Atlantic 10),31,18-13,717,1709,42
+295,Delaware St. (Mid-Eastern),32,10-22,782,1865,41.9
+296,Penn St. (Big Ten),32,15-17,809,1936,41.8
+297,Saint Joseph's (Atlantic 10),31,11-20,755,1808,41.8
+298,Eastern Ill. (OVC),29,14-15,772,1852,41.7
+299,Fordham (Atlantic 10),31,13-18,716,1720,41.6
+300,Nebraska (Big Ten),31,12-19,793,1906,41.6
+301,Indiana St. (Missouri Valley),31,11-20,762,1832,41.6
+302,Niagara (Metro Atlantic),33,10-23,846,2035,41.6
+303,South Carolina (Southeastern),31,22-9,769,1850,41.6
+304,Manhattan (Metro Atlantic),32,10-22,754,1814,41.6
+305,Bethune-Cookman (Mid-Eastern),32,10-22,840,2021,41.6
+306,The Citadel (Southern),33,12-21,980,2359,41.5
+307,Radford (Big South),32,14-18,745,1803,41.3
+308,Old Dominion (Conference USA),30,19-11,700,1695,41.3
+309,San Diego St. (Mountain West),31,18-13,729,1766,41.3
+310,Presbyterian (Big South),30,5-25,667,1618,41.2
+311,VMI (Southern),30,6-24,732,1778,41.2
+312,UC Riverside (Big West),27,7-20,632,1537,41.1
+313,Fla. Atlantic (Conference USA),30,10-20,756,1839,41.1
+314,Rutgers (Big Ten),32,15-17,787,1915,41.1
+315,Savannah St. (Mid-Eastern),29,13-16,833,2030,41
+316,Hampton (Mid-Eastern),29,14-15,700,1710,40.9
+317,Drake (Missouri Valley),31,7-24,760,1860,40.9
+318,SIUE (OVC),30,6-24,687,1686,40.7
+319,San Diego (West Coast),31,13-18,666,1636,40.7
+320,Tulane (AAC),30,6-24,734,1804,40.7
+321,Stony Brook (America East),31,18-13,731,1797,40.7
+322,Northern Ariz. (Big Sky),32,9-23,769,1891,40.7
+323,Southern Utah (Big Sky),32,6-26,790,1949,40.5
+324,Cleveland St. (Horizon),31,9-22,745,1838,40.5
+325,Cal Poly (Big West),30,11-19,706,1743,40.5
+326,Saint Louis (Atlantic 10),32,12-20,682,1684,40.5
+327,Pacific (West Coast),33,11-22,784,1940,40.4
+328,Ark.-Pine Bluff (Southwestern),32,7-25,695,1725,40.3
+329,Maine (America East),32,7-25,746,1853,40.3
+330,Hartford (America East),32,9-23,730,1814,40.2
+331,Alabama A&M (Southwestern),29,2-27,628,1563,40.2
+332,Robert Morris (Northeast),33,14-19,728,1818,40
+333,Southern Miss. (Conference USA),31,9-22,690,1728,39.9
+334,UNI (Missouri Valley),30,14-16,622,1559,39.9
+335,UNLV (Mountain West),32,11-21,747,1893,39.5
+336,East Carolina (AAC),31,14-17,662,1679,39.4
+337,UTSA (Conference USA),32,14-18,748,1901,39.3
+338,Howard (Mid-Eastern),33,10-23,698,1780,39.2
+339,Alabama St. (Southwestern),31,8-23,719,1834,39.2
+340,Missouri (Southeastern),31,8-23,718,1832,39.2
+341,Western Caro. (Southern),32,9-23,719,1844,39
+342,Chicago St. (Western Athletic),31,6-25,720,1866,38.6
+343,Jackson St. (Southwestern),32,14-18,716,1860,38.5
+344,Morgan St. (Mid-Eastern),29,14-15,669,1739,38.5
+345,Coppin St. (Mid-Eastern),33,8-25,724,1899,38.1
+346,UC Santa Barbara (Big West),28,6-22,622,1651,37.7
+347,St. Francis Brooklyn (Northeast),31,4-27,650,1871,34.7
+Reclassifying,,,,,,
+-,UMass Lowell (America East),31,11-20,877,"1,825",48.1
+-,Abilene Christian (Southland),29,13-16,721,"1,555",46.4
+-,Incarnate Word (Southland),29,12-17,736,"1,617",45.5
+-,Grand Canyon (Western Athletic),31,22-9,790,"1,812",43.6
